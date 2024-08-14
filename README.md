@@ -42,7 +42,7 @@ MeepMeep Visualizer
 ## Building Paths
 
 - Paths are generated based on a waypoint system that is contained inside of an array
->![path](examplePath.png)
+>![path](images/examplePath.png)
 - Each waypoint contains information on how the robot will behave as it is travelling between it and a next point
 - This information is stored in a CurvePoint class that accepts 10 different values:
 ---
